@@ -7489,6 +7489,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFGR" "Adafruit (10-pack!)"
+			(at 38.1 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "3341"
+			(at 38.1 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "f9848a5c-4347-40ed-a1fd-bb6bc55d3ecf")
 		)
@@ -7627,6 +7645,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 176.53 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFGR" "Toshiba Semiconductor and Storage"
+			(at 176.53 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TCR8BM33A,L3F"
 			(at 176.53 35.56 0)
 			(effects
 				(font
@@ -8734,6 +8770,24 @@
 				(hide yes)
 			)
 		)
+		(property "MFGR" "C&K"
+			(at 151.13 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KMR241G LFS"
+			(at 151.13 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10ea3233-e4e9-4efa-92bd-1b308db159ff")
 		)
@@ -9057,7 +9111,7 @@
 				)
 			)
 		)
-		(property "MFGR" ""
+		(property "MFGR" "Samsung"
 			(at 167.64 113.03 0)
 			(effects
 				(font
@@ -9066,7 +9120,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL10C100JB8NFNC"
 			(at 167.64 113.03 0)
 			(effects
 				(font
@@ -9558,7 +9612,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFGR" ""
+		(property "MFGR" "C&K"
 			(at 151.13 87.63 0)
 			(effects
 				(font
@@ -9567,7 +9621,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "KMR241G LFS"
 			(at 151.13 87.63 0)
 			(effects
 				(font
@@ -9703,6 +9757,24 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+			(at 207.01 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFGR" ""
+			(at 207.01 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TYPE-C-31-M-14"
 			(at 207.01 77.47 0)
 			(effects
 				(font
@@ -9904,7 +9976,7 @@
 				)
 			)
 		)
-		(property "MFGR" "TDK"
+		(property "MFGR" "Samsung"
 			(at 167.64 118.11 0)
 			(effects
 				(font
@@ -9913,7 +9985,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1608C0G1H080D080AA"
+		(property "MPN" "CL10C100JB8NFNC"
 			(at 167.64 118.11 0)
 			(effects
 				(font

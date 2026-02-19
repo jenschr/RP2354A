@@ -1,6 +1,7 @@
 .DS_Store
-RP2350/RP2354-backups
-RP2350/production
+RP2354/RP2354-backups/
+RP2350/RP2354-backups/
+RP2350/production/
 
 # Prerequisites
 *.d

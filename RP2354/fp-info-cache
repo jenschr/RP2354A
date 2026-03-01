@@ -1,4 +1,4 @@
-26594412387722760
+26660780987096524
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -103585,6 +103585,279 @@ test point THT pad
 0
 1
 1
+ToyTronics
+2_hole_dual_mouse_bite
+
+
+0
+0
+0
+ToyTronics
+2_hole_mouse_bite
+
+
+0
+0
+0
+ToyTronics
+2_hole_mouse_bite (alt)
+
+
+0
+0
+0
+ToyTronics
+3_hole_dual_mouse_bite
+
+
+0
+0
+0
+ToyTronics
+3_hole_mouse_bite
+
+
+0
+0
+0
+ToyTronics
+4x4 LEGO
+
+
+0
+0
+0
+ToyTronics
+AdafruitQtPyS3
+
+
+0
+14
+14
+ToyTronics
+Back logo
+
+
+0
+0
+0
+ToyTronics
+DMC2400UV
+SOT563
+SOT-563
+0
+6
+6
+ToyTronics
+DY-SV17F
+
+
+0
+18
+18
+ToyTronics
+DY-SV17F-smd
+DY-SV17F for SMD soldering
+
+0
+18
+18
+ToyTronics
+ESP32-S2-MINI-1
+
+
+0
+73
+65
+ToyTronics
+GP2AP03VT00F
+1cm~30cm SMD-12P Proximity Sensors RoHS
+
+0
+12
+12
+ToyTronics
+IN-S63DTLS_reverse
+
+
+0
+2
+2
+ToyTronics
+KMR241GLFS
+
+
+0
+5
+2
+ToyTronics
+LC8805B TinySolderPads
+Solder wire connection points for LC8805B-1515
+LC8805B
+0
+8
+4
+ToyTronics
+LDD-Series
+
+
+0
+5
+5
+ToyTronics
+LED_ 150141RV73100_3528
+Wurth, dual LED, 3.5 x 2.8 mm Surface Mount LED Lamp
+dual led smd
+0
+4
+4
+ToyTronics
+LTR-329ALS-01
+
+
+0
+4
+4
+ToyTronics
+L_Various
+Choke, SMD, 12x12mm 6mm height
+Choke SMD
+0
+4
+2
+ToyTronics
+MAX8586 T4.1 usb power switch
+MAX8586ETA+T, 8-Lead Plastic Dual Flat, No Lead Package (MF) - 3x3x0.9 mm Body [DFN] 
+DFN 0.65
+0
+13
+9
+ToyTronics
+MLT-5020
+Jiangsu Huaneng Elec MLT-5020, 5x5x2mm buzzer
+
+0
+3
+3
+ToyTronics
+MSOP-8-1EP_3x3mm_P0.65mm_EP1.73x1.85mm_ThermalVias
+MSOP, 8 Pin (http://www.ti.com/lit/ds/symlink/lm25085.pdf#page=32), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
+0
+18
+9
+ToyTronics
+MountingHole_1.6mm_M1.5
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+1
+1
+ToyTronics
+MountingHole_2.1mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+ToyTronics
+PT12-21C
+PT12-21C/TR8 from LCSC
+
+0
+2
+2
+ToyTronics
+Phoenix_MKDS-1,5-5-5.08_1x05_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-5-5.08, 5 pins, pitch 5.08mm, size 25.4x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-5-5.08 pitch 5.08mm size 25.4x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+ToyTronics
+SK6805-EC4004
+OPSCO Optoelectronics SK6805-EC4004
+RGB integrated chip
+0
+4
+4
+ToyTronics
+SK6805-SIDE-FRGBW
+
+
+0
+8
+6
+ToyTronics
+SK6812 reverse
+
+
+0
+4
+4
+ToyTronics
+SK6812-RARE
+
+
+0
+8
+6
+ToyTronics
+SK6812SMINI-ER
+
+
+0
+4
+4
+ToyTronics
+SW_PCM12SMTR
+
+
+0
+7
+7
+ToyTronics
+StripsHole
+
+
+0
+0
+0
+ToyTronics
+StripsHole 3mm
+
+
+0
+0
+0
+ToyTronics
+TS-1089S-02526
+
+
+0
+4
+2
+ToyTronics
+WS2812B-2020
+WS2812B-2020 SMD LED
+WS2812, 2020
+0
+4
+4
+ToyTronics
+XNOVA Cube 1616
+
+
+0
+2
+2
+ToyTronics
+XSON-8_1x1.95mm_P0.5mm
+
+
+0
+8
+8
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
